@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RICHARD</h1>
+<h1 align="center">Hi 👋, I'm RICHARD B MELATH</h1>
 <h3 align="center">A passionate AI and web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=richard-b-melath&label=Profile%20views&color=0e75b6&style=flat" alt="richard-b-melath" /> </p>
